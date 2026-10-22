@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:A371F7&height=180&section=header&text=Arun&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Backend%20%26%20AI%20Engineer&descAlignY=55&descSize=18" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:A371F7&height=180&section=header&text=Arun&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Backend%20%7C%20AI%20Engineer&descAlignY=55&descSize=18" width="100%" alt="banner" />
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=700&lines=Backend+%26+AI+Engineer;B.Tech+CSE+%40+IIIT+Sri+City+%7C+2023-2027;LLM+Agents+%E2%80%A2+RAG+Pipelines+%E2%80%A2+Distributed+Backends;I+build+AI+systems+with+guardrails%2C+not+vibes." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=900&lines=Backend+%7C+AI+Engineer;B.Tech+CSE+%40+IIIT+Sri+City+%7C+2023-2027;LLM+Agents+%E2%80%A2+RAG+Pipelines+%E2%80%A2+Distributed+Backends;I+build+AI+systems+with+guardrails%2C+not+vibes." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -11,7 +11,6 @@
 <a href="https://www.linkedin.com/in/arun-52094b297"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/arungujjar123"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:officialarunbadgujja@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=arungujjar123&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS" alt="views"/>
 
 </div>
 
