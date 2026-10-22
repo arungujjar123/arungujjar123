@@ -253,9 +253,6 @@ An 11-service marketplace connecting shippers with truck owners and drivers thro
 
 <img src="https://streak-stats.demolab.com?user=arungujjar123&theme=tokyonight&hide_border=true&background=0D1117&ring=1F6FEB&fire=A371F7&currStreakLabel=1F6FEB" alt="GitHub Streak" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=arungujjar123&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
 
 </div>
 
@@ -271,7 +268,11 @@ An 11-service marketplace connecting shippers with truck owners and drivers thro
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arungujjar123&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1F6FEB&line=A371F7&point=C9D1D9&area=true" alt="Activity Graph" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arungujjar123/arungujjar123/output/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arungujjar123/arungujjar123/output/profile-3d-contrib/profile-green.svg" />
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/arungujjar123/arungujjar123/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</picture>
 
 </div>
 
