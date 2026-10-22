@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Generate Profile Graphs
 
 on:
   schedule:
@@ -22,6 +22,15 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Collect 3D graph into output
+        run: cp -r profile-3d-contrib dist/
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
