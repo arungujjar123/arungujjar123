@@ -29,13 +29,19 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Collect 3D graph into output
-        run: cp -r profile-3d-contrib dist/
+      - name: Collect graphs into output
+        run: |
+          mkdir -p public
+          cp dist/*.svg public/
+          src=$(find . -type d -name profile-3d-contrib -not -path './public/*' | head -1)
+          if [ -z "$src" ]; then echo "::error::profile-3d-contrib not found: $(ls -A | tr '\n' ' ')"; exit 1; fi
+          cp -r "$src" public/profile-3d-contrib
+          echo "::notice::published $(cd public && find . -name '*.svg' | sort | tr '\n' ' ')"
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: public
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
