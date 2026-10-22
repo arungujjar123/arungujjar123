@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:A371F7&height=180&section=header&text=Arun&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=55&descSize=18" width="100%" alt="banner" />
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=900&lines=Backend+%7C+AI+Engineer;B.Tech+CSE+%40+IIIT+Sri+City+%7C+2023-2027;LLM+Agents+%E2%80%A2+RAG+Pipelines+%E2%80%A2+Distributed+Backends;I+build+AI+systems+with+guardrails%2C+not+vibes." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+AI+Engineer;B.Tech+CSE+%40+IIIT+Sri+City+%7C+2023-2027;LLM+Agents+%E2%80%A2+RAG+Pipelines+%E2%80%A2+Distributed+Backends;I+build+AI+systems+with+guardrails%2C+not+vibes." alt="Typing SVG" />
 </a>
 
 <br/>
