@@ -20,7 +20,7 @@
 
 ```yaml
 name:        Arun
-role:        Backend & AI Engineer
+role:        Fullstack-developer & AI Engineer
 education:   B.Tech, Computer Science — IIIT Sri City (2023 – 2027)
 location:    Sri City, Andhra Pradesh, India
 
