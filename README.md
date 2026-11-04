@@ -202,19 +202,7 @@ An immutable, ACID-compliant ledger where balances are *derived*, never stored.
 
 </td>
 <td width="50%" valign="top">
-
-### 🚚 [CargoLink](https://github.com/arungujjar123/Cargo-link)
-**Full-Stack Logistics Marketplace**
-
-An 11-service marketplace connecting shippers with truck owners and drivers through live competitive bidding.
-
-- MongoDB schemas for Customers, Transporters, Orders, Bids & Fleets supporting real-time bidding
-- Dockerised **Redis caching layer** with safe fallback behaviour
-- **Razorpay** payments + **Google Maps** routing integration
-- CI/CD on **GCP** (Cloud Build, App Engine) with independently deployable services
-
-`React` `Node.js` `Express` `MongoDB` `Redis` `Docker` `GCP`
-
+  
 </td>
 </tr>
 </table>
